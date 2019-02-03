@@ -5,4 +5,4 @@ This project was an attempt at both playing around with the idea of [data moshin
 
 ### Demo
 ![Demo](https://github.com/alexander-lee/spatial-art/blob/master/FacialShift/Demo.gif?raw=true)
-Video: https://youtu.be/jsl7xw54wSE
+**Video:** https://www.youtube.com/watch?v=jsl7xw54wSE
