@@ -5,9 +5,9 @@ Mare is a marionette with no strings attached. The goal of the project was to cr
 
 ### Code
 * [GloveSender](/GloveSender) involves RF transmission from the flex sensor glove
-* [HorseReceiver][/HorseReceiver] involves receiving RF data in order to move the servos on the horse
-* [RFTest][/RFTest] is a test to ensure the RF module is working correctly
-* [SweepCalibration][/SweepCalibration] is a modified version of `Sweep.c`
+* [HorseReceiver](HorseReceiver) involves receiving RF data in order to move the servos on the horse
+* [RFTest](RFTest) is a test to ensure the RF module is working correctly
+* [SweepCalibration](SweepCalibration) is a modified version of `Sweep.c`
 
 ### Demo
 ![Demo](https://github.com/alexander-lee/spatial-art/blob/master/Mare/Demo.gif?raw=true)
