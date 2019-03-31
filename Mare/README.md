@@ -11,7 +11,7 @@ Mare is a marionette with no strings attached. The goal of the project was to cr
 
 ### Demo
 ![Demo](https://github.com/alexander-lee/spatial-art/blob/master/Mare/Demo.gif?raw=true)
-**Video:** https://youtu.be/_txTRFKy-fQ
+**Video:** https://www.youtube.com/watch?v=_txTRFKy-fQ
 
 ### Resources
 * [NRF24L01 Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
